@@ -17,15 +17,15 @@ class ProductoReaccion extends Component {
                 description:
                   '',
                 createdAt: Date.now(),
-                likes: [
-                  "Pedro",
-                  "Diego",
-                  "Juan",
-                  "Antonio",
+                likes: [//array para sumilar los likes
+                  "Charla",
+                  "Luna",
+                  "Carlos",
+                  "Julio",
                   "Maria",
-                  "Jesus",
-                  "Alvaro",
-                  "Marisol"
+                  "Clemente",
+                  "Sara",
+                  "Victor"
                 ]
               }
         };

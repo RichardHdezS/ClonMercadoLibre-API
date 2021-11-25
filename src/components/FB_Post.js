@@ -104,9 +104,9 @@ class FBPost extends React.Component {
      window.addEventListener("resize", this.onresize);
      function mercadopago(){
       if (producto.accepts_mercadopago)
-          return "https://raw.githubusercontent.com/devjaime/clone-mercadolibre/master/img/mercadopago.png";
+          return "";
       else
-        return "https://raw.githubusercontent.com/devjaime/clone-mercadolibre/master/img/pagoefectivo.png";
+        return "";
      };
     
 
